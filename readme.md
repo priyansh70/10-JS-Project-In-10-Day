@@ -9,15 +9,7 @@ Welcome to the "10 JavaScript Projects in 10 Days" repository! This repository c
 Here's a list of the 10 projects included in this repository:
 
 1. **Project 1: Love Calculator**
-2. **Project 2: **
-3. **Project 3:  **
-4. **Project 4:  **
-5. **Project 5:  **
-6. **Project 6: **
-7. **Project 7:  **
-8. **Project 8:  **
-9. **Project 9:  **
-10. **Project 10:  **
+2. **Project 2: BMI Calculator**
 
 ## Getting Started
 
