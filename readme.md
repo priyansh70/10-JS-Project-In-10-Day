@@ -10,8 +10,9 @@ Here's a list of the 10 projects included in this repository:
 
 1. **Project 1: Love Calculator**
 2. **Project 2: BMI Calculator**
-2. **Project 3: Loan Calculator**
-2. **Project 4: Counter Application**
+3. **Project 3: Loan Calculator**
+4. **Project 4: Counter Application**
+5. **Project 5: Palindrome Checker**
 
 ## Getting Started
 
