@@ -14,6 +14,7 @@ Here's a list of the 10 projects included in this repository:
 4. **Project 4: Counter Application**
 5. **Project 5: Palindrome Checker**
 6. **Project 6: RGB Color Generator**
+7. **Project 7: Tip Calculator**
 
 ## Getting Started
 
