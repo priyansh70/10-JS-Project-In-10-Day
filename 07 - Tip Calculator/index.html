@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tip Calculator</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js" defer></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Tip Calculator</h1>
+
+      <!-- Input Group  -->
+      <div class="input-group">
+        <label for="billAmount">Bill Amount:</label>
+        <input type="numner" id="billAmount" placeholder="Bill Amount" />
+      </div>
+
+      <!-- Input Group  -->
+      <div class="input-group">
+        <label for="serviceRating">Service Rating</label>
+        <select name="service" id="serviceRating">
+          <option value="1">Poor</option>
+          <option value="2">Average</option>
+          <option value="3">Good</option>
+          <option value="4">Excellent</option>
+        </select>
+      </div>
+
+      <!-- Input Group  -->
+      <div class="input-group">
+        <label for="splitCount">Number of People:</label>
+        <input
+          type="numner"
+          id="splitCount"
+          placeholder="Enter the number of people"
+        />
+      </div>
+
+      <!-- Input Group  -->
+      <div class="input-group">
+        <label for="mealType">Meal Type:</label>
+        <select name="Meal" id="mealType">
+          <option value="breakfast">Breakfast</option>
+          <option value="lunch">Lunch</option>
+          <option value="dinner">Dinner</option>
+        </select>
+      </div>
+
+      <!-- Result Section  -->
+      <div class="result" id="result">
+        <h2>Result:</h2>
+        <div id="tipAmount"></div>
+        <div id="totalAmount"></div>
+        <div id="amountPerPerson"></div>
+      </div>
+
+      <div id="calculateBtn">Calculate</div>
+    </div>
+  </body>
+</html>
