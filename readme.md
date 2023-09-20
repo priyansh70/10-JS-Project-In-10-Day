@@ -15,6 +15,9 @@ Here's a list of the 10 projects included in this repository:
 5. **Project 5: Palindrome Checker**
 6. **Project 6: RGB Color Generator**
 7. **Project 7: Tip Calculator**
+8. **Project 8: Time And Date Widget**
+9. **Project 9: Get Unicode By Character Value**
+10. **Project 10: Age Calculator**
 
 ## Getting Started
 
